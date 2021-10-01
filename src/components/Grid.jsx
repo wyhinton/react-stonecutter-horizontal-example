@@ -1,7 +1,7 @@
 import React from 'react';
 import isEqualWith from 'lodash.isequalwith';
 import reactBrickwork, { SpringGrid, CSSGrid,
-  makeResponsive, measureItems } from '../react-stonecutter/src';
+  makeResponsive, measureItems } from '../react-stonecutter';
 
 //test
 export default class Grid extends React.Component {
